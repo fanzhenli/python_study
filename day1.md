@@ -1,15 +1,15 @@
 https://github.com/coco369/
 
-** MVC**
+**MVC**
   M：模型层
   V：视图层
   C：业务层
 
 **Django,系统采用了MVC的框架模式，也称为MTV模式**
-**Django**
-  M：模型层
-  V：视图：处理业务逻辑
-  T：模板：html
+
+* M：模型层
+* V：视图：处理业务逻辑
+* T：模板：html
 
 
 
